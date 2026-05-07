@@ -43,7 +43,7 @@ alt="Typing SVG"
 ```typescript
 const vanshika = {
   location   : "Pune, India",
-  education  : "B.Tech CSE — Symbiosis Institute of Technology (CGPA: 7.84)",
+  education  : "B.Tech CSE — Symbiosis Institute of Technology",
   focus      : ["Scalable Web Systems", "DSA & Problem Solving"],
   currently  : "Building production Shopify apps and backend services for real clients",
   open_to    : "Full-time SDE roles · Internships · Open Source Collaboration",
