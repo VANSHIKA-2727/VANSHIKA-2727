@@ -1,10 +1,19 @@
+
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=120&pause=9999&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=false&width=700&height=90&lines=Vanshika+Dhawan" alt="Vanshika Dhawan" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2000&pause=8000&color=64FFDA&center=true&vCenter=true&repeat=false&width=700&lines=Full+Stack+Developer+%7C+Problem+Solver+%7C+Pune%2C+India" alt="subtitle" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Vanshika+Dhawan" 
+alt="Typing SVG" 
+/>
 
-<br/>
+</div>
+
+</div>
+
+<div align="center">
 
 <a href="https://linkedin.com/in/vanshika-dhawan-986552296">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -17,9 +26,14 @@
 <a href="mailto:vanshikadhawan38@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=VANSHIKA-2727&label=Profile+Views&color=64ffda&style=for-the-badge" />
 
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=B.Tech+CSE+%40+Symbiosis+Institute+of+Technology;React+%7C+Node.js+%7C+PostgreSQL+%7C+AWS+EC2;Full+Stack+Engineer;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </div>
 
 ---
@@ -30,8 +44,7 @@
 const vanshika = {
   location   : "Pune, India",
   education  : "B.Tech CSE — Symbiosis Institute of Technology (CGPA: 7.84)",
-  role       : "Full Stack Developer Intern @ Headspur Technologies",
-  focus      : ["Scalable Web Systems", "DSA & Problem Solving", "API Design"],
+  focus      : ["Scalable Web Systems", "DSA & Problem Solving"],
   currently  : "Building production Shopify apps and backend services for real clients",
   open_to    : "Full-time SDE roles · Internships · Open Source Collaboration",
 };
@@ -70,7 +83,7 @@ Experienced in normalized relational schema design (3NF), ORM workflows with Pri
 
 **Cloud & Deployment**
 
-Deployed applications on **AWS EC2** and managed storage via **S3**. Built automated **CI/CD pipelines** using **Jenkins** and **GitHub Actions** for consistent, zero-downtime deployments. Containerized services using **Docker**.
+Deployed applications on **AWS EC2**, managed static assets via **S3**. Built automated **CI/CD pipelines** using **GitHub Actions** for consistent, zero-downtime deployments. Containerized services using **Docker**.
 
 </td>
 </tr>
@@ -82,39 +95,39 @@ Deployed applications on **AWS EC2** and managed storage via **S3**. Built autom
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Databases & ORM**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud & CI/CD**
 
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -179,17 +192,7 @@ The goal is not just to solve — but to understand *why* a solution works, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VANSHIKA-2727&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANSHIKA-2727&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=VANSHIKA-2727&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VANSHIKA-2727&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VANSHIKA-2727&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&hide_border=true" />
 
 </div>
 
@@ -201,7 +204,6 @@ The goal is not just to solve — but to understand *why* a solution works, and 
 
 - Developed and customized production Shopify store apps, improving user experience and merchant business workflows
 - Built scalable backend services and integrated third-party APIs for real-world client deployments
-- Deployed services on **AWS EC2**, managed static assets via **S3**, and maintained automated pipelines using **Jenkins**
 - Contributed to internal tooling with a consistent focus on operational efficiency and system scalability
 
 ---
@@ -216,7 +218,6 @@ Engineered an alumni engagement and fundraising platform with secure donation wo
 
 **Non-Tech Head** — Cybersecurity & Blockchain Club
 
-**Design Head** — Symbitech
 
 ---
 
@@ -249,8 +250,6 @@ Engineered an alumni engagement and fundraising platform with secure donation wo
   <img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
 
 </div>
