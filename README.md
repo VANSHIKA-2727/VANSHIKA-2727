@@ -206,33 +206,6 @@ The goal is not just to solve — but to understand *why* a solution works, and 
 - Built scalable backend services and integrated third-party APIs for real-world client deployments
 - Contributed to internal tooling with a consistent focus on operational efficiency and system scalability
 
----
-
-## Leadership
-
-**Student Placement Cell Volunteer** &nbsp;|&nbsp; `Apr 2025 – Jan 2026`
-Coordinated end-to-end placement operations including student database management, company communication workflows, and structured reporting to track placement metrics.
-
-**ISKCON Alumni Connect Platform** &nbsp;|&nbsp; `Apr 2025 – Jan 2026`
-Engineered an alumni engagement and fundraising platform with secure donation workflows, a normalized backend database structure, and role-based access control.
-
-**Non-Tech Head** — Cybersecurity & Blockchain Club
-
-
----
-
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| SQL (Basic) · Node.js (Basic) | HackerRank |
-| Operating Systems | Scaler Academy |
-| Complete React & Next.js with AI Projects | Udemy |
-| Computer Networks | Cisco |
-
----
-
-<div align="center">
 
 **Open to full-time SDE roles and meaningful collaborations.**
 
